@@ -1,2 +1,2 @@
 # FMI_IA
-Repo for the Artificial Intelligence course done at my university
+Repo for the AI course
